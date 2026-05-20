@@ -1,0 +1,34 @@
+{
+    "group": "Shop",
+    "struct": [
+        {
+            "label": "name",
+            "type": "string"
+        },
+        {
+            "label": "image",
+            "type": "string"
+        },
+        {
+            "label": "launch_cost",
+            "type": "string"
+        },
+        {
+            "label": "path",
+            "type": "string"
+        },
+        {
+            "label": "enable",
+            "type": "boolean"
+        }
+    ],
+    "data": [
+        {
+            "image": "peroro.png",
+            "name": "Peroro",
+            "launch_cost": "100",
+            "enable": true,
+            "path": "!Manage"
+        }
+    ]
+}

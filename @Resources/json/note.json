@@ -1,0 +1,29 @@
+{
+    "group": "Notes",
+    "struct": [
+        {
+            "label": "name",
+            "type": "string"
+        },
+        {
+            "label": "file_id",
+            "type": "number"
+        },
+        {
+            "label": "sensitive",
+            "type": "boolean"
+        },
+        {
+            "label": "enable",
+            "type": "boolean"
+        }
+    ],
+    "data": [
+        {
+            "enable": true,
+            "file_id": 0,
+            "name": "TODO",
+            "sensitive": false
+        }
+    ]
+}

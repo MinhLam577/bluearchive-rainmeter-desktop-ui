@@ -1,0 +1,34 @@
+{
+    "group": "Quest",
+    "struct": [
+        {
+            "type": "string",
+            "label": "name"
+        },
+        {
+            "type": "string",
+            "label": "class"
+        },
+        {
+            "type": "string",
+            "label": "description"
+        },
+        {
+            "type": "number",
+            "label": "count"
+        },
+        {
+            "type": "boolean",
+            "label": "enable"
+        }
+    ],
+    "data": [
+        {
+            "name": "BA Rainmeter Setup",
+            "enable": true,
+            "class": "challenges",
+            "description": "Personalize your BA-Themed Rainmeter Suite!",
+            "count": 1
+        }
+    ]
+}

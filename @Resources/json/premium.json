@@ -1,0 +1,53 @@
+{
+    "group": "Premium",
+    "struct": [
+        {
+            "label": "name",
+            "type": "string"
+        },
+        {
+            "label": "image",
+            "type": "string"
+        },
+        {
+            "label": "seed",
+            "type": "number"
+        },
+        {
+            "label": "maximum",
+            "type": "number"
+        },
+        {
+            "label": "pullcost",
+            "type": "number"
+        },
+        {
+            "label": "message",
+            "type": "string"
+        },
+        {
+            "label": "enable",
+            "type": "boolean"
+        }
+    ],
+    "data": [
+        {
+            "message": "%p pulls today",
+            "image": "Common_Icon_Diamond.png",
+            "name": "BA",
+            "seed": 0,
+            "enable": true,
+            "maximum": 24000,
+            "pullcost": 120
+        },
+        {
+            "message": "%p ten-pulls today",
+            "image": "Common_Icon_Diamond.png",
+            "name": "BA-10 Pull",
+            "seed": 0,
+            "enable": false,
+            "maximum": 24000,
+            "pullcost": 1200
+        }
+    ]
+}

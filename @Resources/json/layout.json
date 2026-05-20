@@ -1,0 +1,319 @@
+{
+  "group": "Toggle",
+  "struct": [
+    {
+      "type": "string",
+      "label": "name"
+    },
+    {
+      "type": "string",
+      "label": "skin"
+    },
+    {
+      "type": "string",
+      "label": "variant"
+    },
+    {
+      "type": "boolean",
+      "label": "main_only"
+    },
+    {
+      "type": "boolean",
+      "label": "enable"
+    },
+    {
+      "type": "boolean",
+      "label": "shared"
+    }
+  ],
+  "data": [
+    {
+      "main_only": false,
+      "name": "Tray",
+      "variant": "dynamictray",
+      "enable": true,
+      "skin": "BlueArchive\\Tray",
+      "shared": true
+    },
+    {
+      "main_only": false,
+      "name": "List",
+      "variant": "aronagrid",
+      "enable": true,
+      "skin": "BlueArchive\\List",
+      "shared": false
+    },
+    {
+      "main_only": false,
+      "name": "List",
+      "variant": "dungeonlist",
+      "enable": true,
+      "skin": "BlueArchive\\List",
+      "shared": false
+    },
+    {
+      "main_only": false,
+      "name": "List",
+      "variant": "questlist",
+      "enable": true,
+      "skin": "BlueArchive\\List",
+      "shared": false
+    },
+    {
+      "main_only": false,
+      "name": "List",
+      "variant": "raidlist",
+      "enable": true,
+      "skin": "BlueArchive\\List",
+      "shared": false
+    },
+    {
+      "main_only": false,
+      "name": "List",
+      "variant": "shoplist",
+      "enable": true,
+      "skin": "BlueArchive\\List",
+      "shared": false
+    },
+    {
+      "main_only": false,
+      "name": "HomeButton",
+      "variant": "",
+      "enable": true,
+      "skin": "BlueArchive\\HomeButton",
+      "shared": false
+    },
+    {
+      "main_only": false,
+      "name": "Primary Banner",
+      "variant": "weatherbanner",
+      "enable": true,
+      "skin": "BlueArchive\\PrimaryBanner",
+      "shared": true
+    },
+    {
+      "main_only": false,
+      "name": "Currency",
+      "variant": "",
+      "enable": true,
+      "skin": "BlueArchive\\Currency",
+      "shared": true
+    },
+    {
+      "main_only": true,
+      "name": "Event Banner",
+      "variant": "",
+      "enable": true,
+      "skin": "BlueArchive\\EventBanner",
+      "shared": false
+    },
+    {
+      "main_only": true,
+      "name": "YouTube",
+      "variant": "",
+      "enable": true,
+      "skin": "BlueArchive\\YouTubeBubble",
+      "shared": false
+    },
+    {
+      "main_only": false,
+      "name": "Energy",
+      "variant": "uptime",
+      "enable": true,
+      "skin": "BlueArchive\\Energy",
+      "shared": true
+    },
+    {
+      "main_only": false,
+      "name": "Options",
+      "variant": "",
+      "enable": true,
+      "skin": "BlueArchive\\Options",
+      "shared": true
+    },
+    {
+      "main_only": false,
+      "name": "Premium",
+      "variant": "premium",
+      "enable": true,
+      "skin": "BlueArchive\\Premium",
+      "shared": true
+    },
+    {
+      "main_only": true,
+      "name": "Schale Folder",
+      "variant": "schalefolder",
+      "enable": true,
+      "skin": "BlueArchive\\SchaleFolder",
+      "shared": false
+    },
+    {
+      "main_only": true,
+      "name": "Refresh Button",
+      "variant": "",
+      "enable": true,
+      "skin": "BlueArchive\\RefreshButton",
+      "shared": false
+    },
+    {
+      "main_only": true,
+      "name": "Audio",
+      "variant": "",
+      "enable": true,
+      "skin": "BlueArchive\\SideApps\\Audio",
+      "shared": false
+    },
+    {
+      "main_only": true,
+      "name": "Phone",
+      "variant": "",
+      "enable": true,
+      "skin": "BlueArchive\\SideApps\\Phone",
+      "shared": false
+    },
+    {
+      "main_only": true,
+      "name": "Recycle Bin",
+      "variant": "",
+      "enable": true,
+      "skin": "BlueArchive\\SideApps\\RecycleBin",
+      "shared": false
+    },
+    {
+      "main_only": true,
+      "name": "Notes",
+      "variant": "",
+      "enable": true,
+      "skin": "BlueArchive\\SideApps\\Notes",
+      "shared": false
+    },
+    {
+      "main_only": false,
+      "name": "App0",
+      "variant": "",
+      "enable": true,
+      "skin": "BlueArchive\\TrayApps\\App0",
+      "shared": true
+    },
+    {
+      "main_only": false,
+      "name": "App1",
+      "variant": "",
+      "enable": true,
+      "skin": "BlueArchive\\TrayApps\\App1",
+      "shared": true
+    },
+    {
+      "main_only": false,
+      "name": "App2",
+      "variant": "",
+      "enable": true,
+      "skin": "BlueArchive\\TrayApps\\App2",
+      "shared": true
+    },
+    {
+      "main_only": false,
+      "name": "App3",
+      "variant": "",
+      "enable": true,
+      "skin": "BlueArchive\\TrayApps\\App3",
+      "shared": true
+    },
+    {
+      "main_only": false,
+      "name": "App4",
+      "variant": "",
+      "enable": true,
+      "skin": "BlueArchive\\TrayApps\\App4",
+      "shared": true
+    },
+    {
+      "main_only": false,
+      "name": "App5",
+      "variant": "",
+      "enable": true,
+      "skin": "BlueArchive\\TrayApps\\App5",
+      "shared": true
+    },
+    {
+      "main_only": false,
+      "name": "App6",
+      "variant": "",
+      "enable": true,
+      "skin": "BlueArchive\\TrayApps\\App6",
+      "shared": true
+    },
+    {
+      "main_only": false,
+      "name": "App7",
+      "variant": "",
+      "enable": true,
+      "skin": "BlueArchive\\TrayApps\\App7",
+      "shared": true
+    },
+    {
+      "main_only": false,
+      "name": "App8",
+      "variant": "",
+      "enable": true,
+      "skin": "BlueArchive\\TrayApps\\App8",
+      "shared": true
+    },
+    {
+      "main_only": false,
+      "name": "App9",
+      "variant": "",
+      "enable": true,
+      "skin": "BlueArchive\\TrayApps\\App9",
+      "shared": true
+    },
+    {
+      "main_only": false,
+      "name": "Mipower",
+      "variant": "W+days",
+      "enable": true,
+      "skin": "BlueArchive\\mii power\\power+uptime",
+      "shared": true
+    },
+    {
+      "main_only": false,
+      "name": "Music App",
+      "variant": "musicapp",
+      "enable": true,
+      "skin": "BlueArchive\\TrayApps\\MusicApp",
+      "shared": true
+    },
+    {
+      "main_only": false,
+      "name": "Toggle Switch Hub",
+      "variant": "",
+      "enable": true,
+      "skin": "BlueArchive\\ToggleSwitchHub",
+      "shared": false
+    },
+    {
+      "main_only": false,
+      "name": "Toggle On Hub",
+      "variant": "toggleonhub",
+      "enable": true,
+      "skin": "BlueArchive\\ToggleSwitchHub",
+      "shared": false
+    },
+    {
+      "main_only": true,
+      "name": "Toggle Switch",
+      "variant": "",
+      "enable": true,
+      "skin": "BlueArchive\\ToggleSwitch",
+      "shared": false
+    },
+    {
+      "main_only": true,
+      "name": "Toggle On",
+      "variant": "toggleon",
+      "enable": true,
+      "skin": "BlueArchive\\ToggleSwitch",
+      "shared": false
+    }
+  ]
+}
