@@ -3,7 +3,7 @@
 
 UnloadHome=[&HubScript:ToggleCommand("DeactivateConfig",true)][!CommandMeasure "HubScript" "ToggleHubCommand('ActivateConfig', false)" "BlueArchive\Controller"][!DeactivateConfig "BlueArchive\ToggleSwitch\ToggleOn"][!ActivateConfig "BlueArchive\ToggleSwitchHub\ToggleOnHub"]
 
-LoadHome=#WHome#[&HubScript:ToggleCommand("DeactivateConfig",true)][!CommandMeasure "HubScript" "SetCurrentHubVariant('home')" "BlueArchive\Controller"][&HubScript:ToggleCommand("ActivateConfig",false)][!DeactivateConfig "BlueArchive\ToggleSwitchHub\ToggleOnHub"][!ActivateConfig "BlueArchive\ToggleSwitch\ToggleOn"][!ActivateConfig "BlueArchive\mii power\power+uptime" "W+days.ini"]
+LoadHome=#WHome#[&HubScript:ToggleCommand("DeactivateConfig",true)][!CommandMeasure "HubScript" "SetCurrentHubVariant('home')" "BlueArchive\Controller"][&HubScript:ToggleCommand("ActivateConfig",false)][!DeactivateConfig "BlueArchive\ToggleSwitchHub\ToggleOnHub"][!ActivateConfig "BlueArchive\ToggleSwitch\ToggleOn"][!ActivateConfig "BlueArchive\mii power\power+uptime" "B+days.ini"]
 
 QSTS=#WQuest#[!CommandMeasure "HubScript" "SetCurrentHubVariant('questlist')" "BlueArchive\Controller"]#UnloadHome#[!ActivateConfig "#ROOTCONFIG#\List" "questlist.ini"]
 

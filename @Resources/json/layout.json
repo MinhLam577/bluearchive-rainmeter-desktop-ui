@@ -270,7 +270,7 @@
     {
       "main_only": false,
       "name": "Mipower",
-      "variant": "W+days",
+      "variant": "B+days",
       "enable": true,
       "skin": "BlueArchive\\mii power\\power+uptime",
       "shared": true

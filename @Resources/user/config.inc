@@ -33,37 +33,37 @@ Hitbox=Fill Color 0,0,0,1 | StrokeWidth 0
 ; ------
 ; Colors
 ; ------
-BannerColor=47,88,115,255
+BannerColor=19,52,83,255
 HeaderTextColor=255,255,255,255
-InsetColor=34,62,81,255
-BrightHighlightColor=251,201,101,255
-WealthColor=255,255,255,255
+InsetColor=44,76,115,255
+BrightHighlightColor=80,255,255,255
+WealthColor=237,203,60,255
 ; ------
-BarColor1=251,201,101,255
-BarColor2=205,70,74,255
+BarColor1=131,213,243,255
+BarColor2=255,255,255,255
 AudioShadowColor=120,140,185,200
 ; ------
-C1=8,99,117,255
-C2=27,155,181,255
-C3=155,232,247,255
-C4=254,247,192,255
-C5=44,76,115,255
-C6=254,247,192,255
+C1=22,147,222,255
+C2=39,203,252,255
+C3=167,248,255,255
+C4=255,255,255,255
+C5=47,80,109,255
+C6=255,255,255,255
 C7=47,80,109,255
-C8=237,138,74,255
+C8=247,168,187,255
 CharmBorderColor=110,25,67,255
 StopColor=239,64,67,255
 StopBorderColor=100,10,10,255
 OffColor=122,122,122,255
 OffBorderColor=61,61,61,255
 ; ------
-TrayColor=47,88,115,222
+TrayColor=255,255,255,222
 ShadowColor=0,0,0,66
-TextColor=255,255,255,255
+TextColor=32,60,93,255
 ; ------
 PopUpColor=31,64,101,222
 PopUpTextColor=255,255,255,255
-HighlightColor=251,201,101,255
+HighlightColor=50,201,255,255
 PopUpCap=Round
 ; ------
 PrimaryFont=Noto Sans
