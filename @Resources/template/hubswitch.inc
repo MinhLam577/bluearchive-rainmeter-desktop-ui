@@ -13,7 +13,7 @@ GRID=#WGrid#[!CommandMeasure "HubScript" "SetCurrentHubVariant('aronagrid')" "Bl
 
 SHOP=#WShop#[!CommandMeasure "HubScript" "SetCurrentHubVariant('shoplist')" "BlueArchive\Controller"]#UnloadHome#
 
-DNGN=#WDungeon#[!CommandMeasure "HubScript" "SetCurrentHubVariant('dungeonlist')" "BlueArchive\Controller"]#UnloadHome#
+DNGN=#WDungeon#[!CommandMeasure "HubScript" "SetCurrentHubVariant('dungeonlist')" "BlueArchive\Controller"]#UnloadHome#[!ActivateConfig "BlueArchive\mii power\power+uptime" "W+days.ini"]
 
 LSCR=[!ActivateConfig "#ROOTCONFIG#\0_LoadScreen"][!ZPos "0" "#ROOTCONFIG#\0_LoadScreen"][!Delay 600]
 

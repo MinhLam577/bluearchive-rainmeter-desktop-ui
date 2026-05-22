@@ -13,11 +13,15 @@ A customizable Rainmeter desktop setup inspired by Blue Archive.
   <img src="./preview/hub2.png" width="49%"/>
 </p>
 
-## Toggle Hub — Hide Taskbar
+## Toggle — Hide Taskbar
 
-| Before Toggle | After Toggle |
+| Before Hide Taskbar | After Hide Taskbar |
 |---|---|
 | ![](./preview/before.png) | ![](./preview/after.png) |
+
+| Before Toggle | Before Toggle | After Toggle |
+|---|---|---|
+| ![](./preview/before.png) | ![](./preview/after.png) |![](./preview/afterToggle.png) |
 
 | Main Layout Interaction | Hub Layout Interaction |
 |---|---|
