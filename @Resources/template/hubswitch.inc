@@ -9,7 +9,7 @@ QSTS=#WQuest#[!CommandMeasure "HubScript" "SetCurrentHubVariant('questlist')" "B
 
 RAID=#WRaid#[!CommandMeasure "HubScript" "SetCurrentHubVariant('raidlist')" "BlueArchive\Controller"]#UnloadHome#[!ActivateConfig "BlueArchive\mii power\power+uptime" "B+days.ini"]
 
-GRID=#WGrid#[!CommandMeasure "HubScript" "SetCurrentHubVariant('aronagrid')" "BlueArchive\Controller"]#UnloadHome#[!ActivateConfig "BlueArchive\mii power\power+uptime" "B+days.ini"]
+GRID=#WGrid#[!CommandMeasure "HubScript" "SetCurrentHubVariant('aronagrid')" "BlueArchive\Controller"]#UnloadHome#[!ActivateConfig "BlueArchive\mii power\power+uptime" "W+days.ini"]
 
 SHOP=#WShop#[!CommandMeasure "HubScript" "SetCurrentHubVariant('shoplist')" "BlueArchive\Controller"]#UnloadHome#
 

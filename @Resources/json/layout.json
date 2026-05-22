@@ -28,9 +28,17 @@
   ],
   "data": [
     {
-      "main_only": false,
+      "main_only": true,
       "name": "Tray",
       "variant": "dynamictray",
+      "enable": false,
+      "skin": "BlueArchive\\Tray",
+      "shared": true
+    },
+    {
+      "main_only": false,
+      "name": "Tray",
+      "variant": "lockedtray",
       "enable": true,
       "skin": "BlueArchive\\Tray",
       "shared": true
@@ -269,18 +277,26 @@
     },
     {
       "main_only": false,
-      "name": "Mipower",
-      "variant": "B+days",
-      "enable": true,
-      "skin": "BlueArchive\\mii power\\power+uptime",
-      "shared": true
-    },
-    {
-      "main_only": false,
       "name": "Music App",
       "variant": "musicapp",
       "enable": true,
       "skin": "BlueArchive\\TrayApps\\MusicApp",
+      "shared": true
+    },
+    {
+      "main_only": false,
+      "name": "App10",
+      "variant": "app",
+      "enable": true,
+      "skin": "BlueArchive\\TrayApps\\App10",
+      "shared": true
+    },
+    {
+      "main_only": false,
+      "name": "Mipower",
+      "variant": "B+days",
+      "enable": true,
+      "skin": "BlueArchive\\mii power\\power+uptime",
       "shared": true
     },
     {
